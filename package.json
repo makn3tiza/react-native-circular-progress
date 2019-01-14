@@ -29,7 +29,6 @@
   },
   "peerDependencies": {
     "react": ">=16.7.0",
-    "react-native": "^0.57.8",
-    "react-native-svg": "^8.0.10"
+    "react-native": "^0.57.8"
   }
 }
